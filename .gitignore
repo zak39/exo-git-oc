@@ -1,3 +1,4 @@
 *.bak
 *.retry
 git_p2_activite*.txt
+*.zip
